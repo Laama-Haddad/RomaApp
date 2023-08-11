@@ -1,0 +1,316 @@
+{
+  "app": {
+    "appName": "Roma",
+    "cancel": "Cancel",
+    "save": "Save",
+    "yes": "Yes",
+    "no": "No",
+    "finished": "Finished"
+  },
+  "cartItem": {
+    "size": "Size"
+  },
+  "offerHorizontalCard": {
+    "off": "O F F"
+  },
+  "offerVerticalCard": {
+    "off": "OFF"
+  },
+  "smallOfferCard": {
+    "off": "off",
+    "buy": "Buy",
+    "get": "Get",
+    "free": "Free"
+  },
+  "progressStepper": {
+    "nextButtonTitle": "Continue",
+    "paymentNextButtonTitle": "Pay Now",
+    "confirmNextButtonTitle": "Order now"
+  },
+  "modal": {
+    "ok": "OK"
+  },
+  "drawer": {
+    "homeTab": "Home",
+    "logout": "Log Out"
+  },
+  "bottomTab": {
+    "home": "Home",
+    "cart": "Cart",
+    "wishlist": "Wishlist",
+    "profile": "Profile"
+  },
+  "welcome": {
+    "title": "Welcome to Ecommerce",
+    "withEmail": "Continue with Email",
+    "withPhone": "Continue with Number Phone",
+    "noAccount": "Don't have an account? Register"
+  },
+  "welcomeWithEmail": {
+    "title": "Welcome to ROMA",
+    "description": "Deliver your Order around the world without hesitation",
+    "login": "Login",
+    "register": "Register"
+  },
+  "signUp": {
+    "headerTitle": "sign up",
+    "title": "Sign up with",
+    "subTitle": "email and phone number",
+    "or": "OR",
+    "buttonSignUp": "SIGN UP",
+    "buttonGoogle": "GOOGLE",
+    "buttonApple": "APPLE",
+    "alreadyAccount": "Already have an account? ",
+    "signIn": "Sign in",
+    "emailPlaceHolder": "Enter your email",
+    "phonePlaceHolder": "Enter your number"
+  },
+  "location": {
+    "headerTitle": "Select location",
+    "cityPlaceHolder": "Select your City",
+    "areaPlaceHolder": "Select your Area",
+    "submitTitle": "Continue"
+  },
+  "signInWithEmail": {
+    "headerTitle": "Sign in",
+    "title": "Welcome Back!",
+    "subTitle": "Sign in to continue",
+    "emailPlaceHolder": "Enter your email",
+    "passwordPlaceHolder": "Enter your password",
+    "remember": "Remember me",
+    "forget": "Forget password?",
+    "signIn": "SIGN IN",
+    "google": "GOOGLE",
+    "apple": "APPLE",
+    "notAlreadyAccount": "Already have not an account? ",
+    "signUp": "Sign Up!"
+  },
+  "signInWithPhone": {
+    "headerTitle": "Sign in",
+    "title": "Login",
+    "subTitle": "with your phone number",
+    "phonePlaceHolder": "Enter your phone",
+    "submitTitle": "Sign in",
+    "notAlreadyAccount": "Have not any account? ",
+    "signUp": "Sign up"
+  },
+  "phoneVerification": {
+    "headerTitle": "Phone verification",
+    "title": "OTP Verification",
+    "subTitle": "An authentication code has been sent to ",
+    "info": "I didn't receive code. ",
+    "resendCode": "Resend Code",
+    "left": "Sec left",
+    "submitTitle": "Verify Now",
+    "sendCodeMessage": "Code Successfully sent, Please check your inbox",
+    "sendCodeMessageTitle": "Info"
+  },
+  "forgetPassword": {
+    "headerTitle": "Forget Password",
+    "info": "We will send a mail to\nthe email address you registered\nto regain your password",
+    "emailPlaceHolder": "Email Address",
+    "emailSent": "Email sent to ",
+    "noCode": "Not Yet Code ",
+    "resend": "Resend Now!",
+    "submitTitle": "Send",
+    "modalTitle": "Password Reset Email Sent",
+    "modalMessage": "An email has been sent to you\nFollow direction in the email\nto reset password",
+    "modalButtonLabel": "OK",
+    "sendCodeMessage": "Code Successfully sent, Please check your inbox",
+    "sendCodeMessageTitle": "Info"
+  },
+  "changePassword": {
+    "headerTitle": "Change Password",
+    "passwordPlaceHolder": "Password",
+    "confirmPasswordPlaceHolder": "Confirm Password",
+    "disMatch": "There is dis match between passwords",
+    "submitTitle": "Save Now !"
+  },
+  "home": {
+    "searchPlaceHolder": "Search",
+    "noResult": "No Result"
+  },
+  "homeFilter": {
+    "searchPlaceHolder": "Search",
+    "noResult": "No Result"
+  },
+  "productDetails": {
+    "headerTitle": "Product Details",
+    "power": "Power",
+    "noPower": "No Power",
+    "medical": "medical",
+    "quantity": "Quantity",
+    "submitTitle": "Add To Cart",
+    "color": "Color",
+    "leftDegree": "Left Degree",
+    "rightDegree": "Right Degree"
+  },
+  "sightPower": {
+    "headerTitle": "Power Of Sight",
+    "leftEye": "Left Eye",
+    "rightEye": "Right Eye",
+    "submitTitle": "Confirm"
+  },
+  "cart": {
+    "headerTitle": "Shopping cart",
+    "inCart": "In your cart",
+    "apply": "Apply",
+    "couponPlaceHolder": "coupon...",
+    "discount": "Got a Discount",
+    "total": "Total Amount",
+    "checkout": "Checkout",
+    "couponTitle": "Info",
+    "couponMessage": "There is no coupon with this name",
+    "emptyCart": "Your Cart is Empty",
+    "shopNow": "Shop Now",
+    "deleteFromCartTitle": "Info",
+    "deleteFromCartMessage": "Your item removed from cart successfully",
+    "notDeletedFromCart": "Failed in deleted from cart",
+    "addedToCartTitle": "Info",
+    "addedToCartMessage": "Your item added to cart successfully",
+    "notAddedToCart": "Failed in added to cart"
+  },
+  "wishList": {
+    "headerTitle": "Wishlist",
+    "emptyWishList": "Currently you have no favorite wishlist yet",
+    "shopNow": "Shop Now",
+    "deleteFavoriteMessage": "Are you sure you want to unfavorite ?"
+  },
+  "profile": {
+    "headerTitle": "Profile",
+    "balance": "Balance",
+    "notifications": "Notifications",
+    "orders": "My orders",
+    "address": "My Addresses",
+    "rate": "Rate us",
+    "wishList": "Wishlist",
+    "settings": "Settings",
+    "info": "Info",
+    "logout": "Logout"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "empty": "You Have No\nNotification Currently"
+  },
+  "orderHistory": {
+    "headerTitle": "Order History",
+    "title": "Your cart is empty",
+    "description": "Looks like you haven't made your \n order yet.",
+    "shopButtonTitle": "Shop Now"
+  },
+  "address": {
+    "headerTitle": "Address",
+    "recipientPlaceHolder": "Recipient's name",
+    "telephonePlaceHolder": "Telephone number",
+    "addressPlaceHolder": "Address",
+    "addButtonTitle": "Add"
+  },
+  "delivery": {
+    "headerTitle": "Delivery",
+    "info": "Free shipping over $19 + free returns and exchange"
+  },
+  "payment": {
+    "headerTitle": "Payment",
+    "buttonRightText": "Change",
+    "visaButtonTitle": "Visa ********250",
+    "creditButtonTitle": "Credit / Debit / ATM Card",
+    "accountPlaceHolder": "Account Holder Name",
+    "cardNumberPlaceHolder": "Card Number",
+    "expDataPlaceHolder": "Exp. Date",
+    "cvCodePlaceHolder": "CVV Code",
+    "bankTransferButtonTitle": "Bank transfer",
+    "cashPaymentButtonTitle": "cash payment",
+    "appleButtonTitle": "Apple B",
+    "payNowButtonTitle": "Pay Now"
+  },
+  "confirmOrder": {
+    "headerTitle": "Confirm order",
+    "delivery": "Delivery",
+    "payment": "Payment",
+    "creditCard": "Credit card",
+    "total": "Total"
+  },
+  "successOrder": {
+    "title": "Order successful!",
+    "info": "Your order will be delivered on time \n Thank you!",
+    "viewOrdersButtonTitle": "View orders",
+    "continueButtonTitle": "Continue Shopping"
+  },
+  "myAddresses": {
+    "headerTitle": "My Addresses"
+  },
+  "deliveryReview": {
+    "headerTitle": "Delivery Review",
+    "title": "Please rate the quality of service \n for the order",
+    "info": "your comments and suggestions help us \n improve the service quality better!",
+    "inputPlaceHolder": "Enter your note here",
+    "submitTitle": "Submit"
+  },
+  "faq": {
+    "headerTitle": "FAQ"
+  },
+  "paymentHistory": {
+    "title": "Payment History"
+  },
+  "editAddress": {
+    "title": "Edit Address",
+    "fullName": "Full Name",
+    "telephone": "Telephone number",
+    "address": "Address",
+    "defaultAddress": "Set as default address",
+    "addNewAddress": "Add new address",
+    "deleteMessage": "Do you want to delete this\naddress?"
+  },
+  "addAddress": {
+    "title": "Add address",
+    "recipientName": "Recipient's name",
+    "telephone": "Telephone number",
+    "address": "Address"
+  },
+  "settings": {
+    "headerTitle": "Settings",
+    "accounts": "Accounts",
+    "changePassword": "Change Password",
+    "orderManagement": "Order Management",
+    "document": "Document Management",
+    "payment": "Payment",
+    "signOut": "Sign Out",
+    "options": "More Options",
+    "newsLetter": "Newsletter",
+    "textMessage": "Text Message",
+    "phone": "Phone Call",
+    "currency": "Currency",
+    "language": "Language",
+    "linked": "Linked Accounts"
+  },
+  "profileDetails": {
+    "headerTitle": "Profile Details",
+    "credit": "Account Credit",
+    "userNamePlaceHolder": "Username",
+    "phonePlaceHolder": "Phone",
+    "emailPlaceHolder": "Email",
+    "addressPlaceHolder": "Address",
+    "submitTitle": "Save Now"
+  },
+  "chooseLocation": {
+    "title": "Choose your location"
+  },
+  "trackOrder": {
+    "headerTitle": "Track Order",
+    "orderCode": "Your order code",
+    "itemsCount": "items",
+    "buttonTitle": "Back to Home"
+  },
+  "chooseCountry": {
+    "headerTitle": "Choose a Country",
+    "searchPlaceHolder": "Search By country"
+  },
+  "orderTrackMap": {
+    "headerTitle": "Map",
+    "orderCode": "Your order code",
+    "itemsCount": "items"
+  },
+  "languages": {
+    "headerTitle": "Select Your Language"
+  }
+}

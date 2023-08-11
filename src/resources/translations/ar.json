@@ -1,0 +1,316 @@
+{
+  "app": {
+    "appName": "روما",
+    "cancel": "إلغاء",
+    "save": "حفظ",
+    "yes": "نعم",
+    "no": "لا",
+    "finished": "انتهيت"
+  },
+  "cartItem": {
+    "size": "حجم"
+  },
+  "offerHorizontalCard": {
+    "off": "عرض"
+  },
+  "offerVerticalCard": {
+    "off": "عرض"
+  },
+  "smallOfferCard": {
+    "off": "عرض",
+    "buy": "اشتري",
+    "get": "احصل",
+    "free": "مجاناً"
+  },
+  "progressStepper": {
+    "nextButtonTitle": "استمرار",
+    "paymentNextButtonTitle": "اشتري الآن",
+    "confirmNextButtonTitle": "اطلب الآن"
+  },
+  "modal": {
+    "ok": "موافق"
+  },
+  "drawer": {
+    "homeTab": "الصفحة الرئيسية",
+    "logout": "تسجيل الخروج"
+  },
+  "bottomTab": {
+    "home": "الصفحة الرئيسية",
+    "cart": "السلة",
+    "wishlist": "المفضلة",
+    "profile": "الصفحة الشخصية"
+  },
+  "welcome": {
+    "title": "اهلاً بكم في تطبيقنا",
+    "withEmail": "الاستمرار باستخدام البريد الالكتروني",
+    "withPhone": "الاستمرار باستخدام رقم الهاتف",
+    "noAccount": "ليس لديك حساب؟ قم بالتسجيل"
+  },
+  "welcomeWithEmail": {
+    "title": "اهلاً بكم في روما",
+    "description": "قم بتوصيل طلبك إلى جميع أنحاء العالم دون تردد",
+    "login": "تسجيل دخول",
+    "register": "قم بالتسجيل"
+  },
+  "signUp": {
+    "headerTitle": "إنشاء حساب",
+    "title": "انشاء حساب باستخدام",
+    "subTitle": "البريد الإلكتروتي أو رقم الهاتف",
+    "or": "أو",
+    "buttonSignUp": "إنشاء حساب",
+    "buttonGoogle": "Google",
+    "buttonApple": "Apple",
+    "alreadyAccount": "لديك حساب مسبقاً؟ ",
+    "signIn": "سجل دخول",
+    "emailPlaceHolder": "ادخل بريدك الإلكتروني",
+    "phonePlaceHolder": "ادخل رقم هاتفك"
+  },
+  "location": {
+    "headerTitle": "اختر الموقع",
+    "cityPlaceHolder": "اختر مدينتك",
+    "areaPlaceHolder": "اختر منطقتك",
+    "submitTitle": "استمرار"
+  },
+  "signInWithEmail": {
+    "headerTitle": "تسجيل الدخول",
+    "title": "أهلاً بعودتك!",
+    "subTitle": "قم بتسجيل الدخول للاستمرار",
+    "emailPlaceHolder": "ادخل البريد الالكتروني",
+    "passwordPlaceHolder": "ادخل كلمة السر",
+    "remember": "تذكرني",
+    "forget": "نسيت كلمة السر؟",
+    "signIn": "تسجيل دخول",
+    "google": "غوغل",
+    "apple": "آبل",
+    "notAlreadyAccount": "ليس لديك حساب مسبقاً؟ ",
+    "signUp": "قم بالتسجيل!"
+  },
+  "signInWithPhone": {
+    "headerTitle": "تسجيل الدخول",
+    "title": "تسجيل الدخول",
+    "subTitle": "باستخدام رقم هاتفك",
+    "phonePlaceHolder": "ادخل رقم هاتفك",
+    "submitTitle": "تسجيل الدخول",
+    "notAlreadyAccount": "ليس لديك حساب؟ ",
+    "signUp": "قم بانشاء حساب"
+  },
+  "phoneVerification": {
+    "headerTitle": "التحقق من رقم الهاتف",
+    "title": "التحقق من رقم الهاتف",
+    "subTitle": "تم ارسال رمز التحقق إلى",
+    "info": "لم استلم رمز. ",
+    "resendCode": "اعادة ارسال الرمز",
+    "left": "الثواني المتبقية",
+    "submitTitle": "تحقق الآن",
+    "sendCodeMessage": "تم ارسال الرمز بنجاح،  اذا سمحت تفقد بريدك الوارد",
+    "sendCodeMessageTitle": "معلومات"
+  },
+  "forgetPassword": {
+    "headerTitle": "نسيت كلمة السر",
+    "info": "سوف نرسل بريداً إلى \n عنوان البريد الإلكتروني الذي قمت بتسجيله\n لاستعادة كلمة السر الخاصة بك",
+    "emailPlaceHolder": "عنوان البريد الإلكتروني",
+    "emailSent": "تم ارسال البريد الإلكتروني إلى",
+    "noCode": "ليس لدي رمز بعد",
+    "resend": "قم بالارسال الآن ",
+    "submitTitle": "إرسال",
+    "modalTitle": "استعادة كلمة السر",
+    "modalMessage": "تم إرسال بريد إلكتروني إليك\nاتبع التعليمات في البريد الإلكتروني\n لإعادة تعيين كلمة السر",
+    "modalButtonLabel": "موافق",
+    "sendCodeMessage": "تم ارسال الرمز بنجاح،  اذا سمحت تفقد بريدك الوارد",
+    "sendCodeMessageTitle": "معلومات"
+  },
+  "changePassword": {
+    "headerTitle": "تغيير كلمة السر",
+    "passwordPlaceHolder": "كلمة السر",
+    "confirmPasswordPlaceHolder": "تأكيد كلمة السر",
+    "disMatch": "لا يوجد تطابق بين كلمات السر",
+    "submitTitle": "احفظ الآن !"
+  },
+  "home": {
+    "searchPlaceHolder": "بحث",
+    "noResult": "لايوجد نتائج"
+  },
+  "homeFilter": {
+    "searchPlaceHolder": "بحث",
+    "noResult": "لايوجد نتائج"
+  },
+  "productDetails": {
+    "headerTitle": "تفاصيل المنتج",
+    "power": "قوة النظر",
+    "noPower": "بدون",
+    "medical": "طبية",
+    "quantity": "الكمية",
+    "submitTitle": "إضافة إلى السلة",
+    "color": "اللون",
+    "leftDegree": "درجة اليسار",
+    "rightDegree": "درجة اليمين"
+  },
+  "sightPower": {
+    "headerTitle": "قوة النظر",
+    "leftEye": "العين اليسار",
+    "rightEye": "العين اليمين",
+    "submitTitle": "تأكيد"
+  },
+  "cart": {
+    "headerTitle": "سلة المشتريات",
+    "inCart": "في سلتك",
+    "apply": "تطبيق",
+    "couponPlaceHolder": "قسيمة...",
+    "discount": "حصلت على خصم",
+    "total": "المبلغ الإجمالي",
+    "checkout": "الدفع",
+    "couponTitle": "معلومات",
+    "couponMessage": "لايوجد قسيمة بهذا الاسم",
+    "emptyCart": "سلتك فارغة",
+    "shopNow": "قم بالتسوق الآن",
+    "deleteFromCartTitle": "معلومات",
+    "deleteFromCartMessage": "تم حذف منتجك من السلة بنجاح",
+    "notDeletedFromCart": "فشلت عملية الحذف من السلة",
+    "addedToCartTitle": "معلومات",
+    "addedToCartMessage": "تم إضافة منتجك إلى السلة بنجاح",
+    "notAddedToCart": "فشلت عملية الإصافة إلى السلمة"
+  },
+  "wishList": {
+    "headerTitle": "المفضلة",
+    "emptyWishList": "ليس لديك قائمة مفضلة حالياً",
+    "shopNow": "قم بالتسوق الآن",
+    "deleteFavoriteMessage": "هل أنت متأكد أنك تريد حذف هذا المنتج من قائمة المفضلة؟"
+  },
+  "profile": {
+    "headerTitle": "الصفحة الشخصية",
+    "balance": "الرصيد",
+    "notifications": "الإشعارات",
+    "orders": "طلباتي",
+    "address": "عناويني",
+    "rate": "قم بتقيمنا",
+    "wishList": "المفضلة",
+    "settings": "الإعدادات",
+    "info": "معلومات",
+    "logout": "تسجيل الخروج"
+  },
+  "notifications": {
+    "title": "الإشعارات",
+    "empty": "ليس لديك\nأي اشعارات حالياً"
+  },
+  "orderHistory": {
+    "headerTitle": "تاريخ الطلب",
+    "title": "سلتك فارغة",
+    "description": "يبدو أنك لم تصنع طلبك حتى الآن",
+    "shopButtonTitle": "قم بالتسوق الآن"
+  },
+  "address": {
+    "headerTitle": "العنوان",
+    "recipientPlaceHolder": "اسم المستلم",
+    "telephonePlaceHolder": "رقم الهاتف",
+    "addressPlaceHolder": "العنوان",
+    "addButtonTitle": "إضافة"
+  },
+  "delivery": {
+    "headerTitle": "التوصيل",
+    "info": "شحن مجاني فوق 19 دولار + ارجاع واستبدال مجاني"
+  },
+  "payment": {
+    "headerTitle": "القسط",
+    "buttonRightText": "تغيير",
+    "visaButtonTitle": "فيزا*******250",
+    "creditButtonTitle": "بطاقة الائتمان / الخصم / الصراف الآلي",
+    "accountPlaceHolder": "اسم صاحب الحساب",
+    "cardNumberPlaceHolder": "رقم البطاقة",
+    "expDataPlaceHolder": "تاريخ الانتهاء",
+    "cvCodePlaceHolder": "CVV Code",
+    "bankTransferButtonTitle": "حوالة بنكية",
+    "cashPaymentButtonTitle": "الدفع نقدا",
+    "appleButtonTitle": "Apple B",
+    "payNowButtonTitle": "ادفع الآن"
+  },
+  "confirmOrder": {
+    "headerTitle": "تأكيد الطلب",
+    "delivery": "التوصيل",
+    "payment": "الدفعة",
+    "creditCard": "بطاقة الائتمان",
+    "total": "المجموع"
+  },
+  "successOrder": {
+    "title": "تم ارسال الطلب بنجاح",
+    "info": "سيتم توصيل طلبك في الوقت المحدد\nشكراً لك!",
+    "viewOrdersButtonTitle": "عرض الطلبات",
+    "continueButtonTitle": "الاستمرار في التسوق"
+  },
+  "myAddresses": {
+    "headerTitle": "عناويني"
+  },
+  "deliveryReview": {
+    "headerTitle": "مراجعة التسليم",
+    "title": "يرجى تقييم جودة الخدمة\n من أجل الطلب",
+    "info": "تساعدنا تعليقاتك واقتراحاتك\n في تحسين جودة الخدمة بشكل أفضل!",
+    "inputPlaceHolder": "ادخل ملاحظتك هنا",
+    "submitTitle": "إرسال"
+  },
+  "faq": {
+    "headerTitle": "اسئلة متكررة"
+  },
+  "paymentHistory": {
+    "title": "تاريخ الدفعات"
+  },
+  "editAddress": {
+    "title": "تعديل العنوان",
+    "fullName": "الاسم الكامل",
+    "telephone": "رقم الهاتف",
+    "address": "العنوان",
+    "defaultAddress": "تعيين كعنوان افتراضي",
+    "addNewAddress": "إضافة عنوان جديد",
+    "deleteMessage": "هل أنت تريد حذف هذا\n العنوان؟"
+  },
+  "addAddress": {
+    "title": "إضافة عنوان",
+    "recipientName": "اسم المستلم",
+    "telephone": "رقم الهاتف",
+    "address": "العنوان"
+  },
+  "settings": {
+    "headerTitle": "الإعدادت",
+    "accounts": "حسابات",
+    "changePassword": "تغيير كلمة السر",
+    "orderManagement": "إدارة الطلب",
+    "document": "إدارة المستندات",
+    "payment": "الدفعات",
+    "signOut": "تسجيل الخروج",
+    "options": "خيارات أكثر",
+    "newsLetter": "Newsletter",
+    "textMessage": "رسالة نصية",
+    "phone": "اتصال هاتفي",
+    "currency": "العملة",
+    "language": "اللغة",
+    "linked": "حسابات متصلة"
+  },
+  "profileDetails": {
+    "headerTitle": "تفاصيل الصفحة الشخصية",
+    "credit": "الرصيد",
+    "userNamePlaceHolder": "اسم المستخدم",
+    "phonePlaceHolder": "رقم الهاتف",
+    "emailPlaceHolder": "البريد الإلكتروني",
+    "addressPlaceHolder": "العونان",
+    "submitTitle": "احفظ الآن"
+  },
+  "chooseLocation": {
+    "title": "اختر موقعك"
+  },
+  "trackOrder": {
+    "headerTitle": "تعقب الطلب",
+    "orderCode": "رمز طلبك",
+    "itemsCount": "عناصر",
+    "buttonTitle": "العودة إلى الصقحة الرئيسية"
+  },
+  "chooseCountry": {
+    "headerTitle": "اختر دولة",
+    "searchPlaceHolder": "ابحث عن الدولة"
+  },
+  "orderTrackMap": {
+    "headerTitle": "الخريطة",
+    "orderCode": "رمز طلبك",
+    "itemsCount": "عناصر"
+  },
+  "languages": {
+    "headerTitle": "اختر لغتك"
+  }
+}
